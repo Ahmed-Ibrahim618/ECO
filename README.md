@@ -1,4 +1,4 @@
-# carwash flutter app
+# car wash flutter app
 
 A new Flutter project.
 
